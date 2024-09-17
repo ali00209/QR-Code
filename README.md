@@ -40,8 +40,8 @@ Learned HTML, CSS and Git Basics
 
 ### Continued development
 
-Responsive CSS
-Grid CSS
+- Responsive CSS
+- Grid CSS
 
 
 ### Useful resources
