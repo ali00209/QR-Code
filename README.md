@@ -45,8 +45,9 @@ Responsive CSS
 
 ### Useful resources
 
-- [Example resource 1](https://youtu.be/OXGznpKZ_sA) - CSS FUNDAMENTALS
-- [Example resource 2](https://youtu.be/kUMe1FH4CHE) - HTML5 FUNDAMENTALS
+- [CSS FUNDAMENTALS](https://youtu.be/OXGznpKZ_sA) - 
+- [HTML5 FUNDAMENTALS](https://youtu.be/kUMe1FH4CHE) -
+- [Git FUNDAMENTALS](https://www.youtube.com/watch?v=mJ-qvsxPHpY&pp=ygUPZ2l0IGZvciBkdW1taWVz) - 
 
 
 ## Author
